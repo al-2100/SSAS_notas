@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS_notas", "SSAS_notas\SSAS_notas.dwproj", "{41F9E2BA-2F83-426B-97D5-46CA6800182B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41F9E2BA-2F83-426B-97D5-46CA6800182B}.Development|Default.ActiveCfg = Development
+		{41F9E2BA-2F83-426B-97D5-46CA6800182B}.Development|Default.Build.0 = Development
+		{41F9E2BA-2F83-426B-97D5-46CA6800182B}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF4BD3AF-35E9-4B79-B5DB-E8F8F86CF7D1}
+	EndGlobalSection
+EndGlobal
